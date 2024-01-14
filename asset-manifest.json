@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AIAgentVRM/static/css/main.42515671.css",
+    "main.js": "/AIAgentVRM/static/js/main.fb66b676.js",
+    "index.html": "/AIAgentVRM/index.html",
+    "main.42515671.css.map": "/AIAgentVRM/static/css/main.42515671.css.map",
+    "main.fb66b676.js.map": "/AIAgentVRM/static/js/main.fb66b676.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42515671.css",
+    "static/js/main.fb66b676.js"
+  ]
+}
