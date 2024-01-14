@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AIAgentgit/static/css/main.42515671.css",
+    "main.js": "/AIAgentgit/static/js/main.fb66b676.js",
+    "index.html": "/AIAgentgit/index.html",
+    "main.42515671.css.map": "/AIAgentgit/static/css/main.42515671.css.map",
+    "main.fb66b676.js.map": "/AIAgentgit/static/js/main.fb66b676.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42515671.css",
+    "static/js/main.fb66b676.js"
+  ]
+}
