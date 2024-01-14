@@ -49,7 +49,7 @@ const Avatar = () => {
       })
 
       loader.load(
-        '/avatar.vrm',
+        'AIAgentVRM/public/avatar.vrm',
         (gltf) => {
           setGltf(gltf)
           const vrm: VRM = gltf.userData.vrm
