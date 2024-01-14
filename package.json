@@ -1,7 +1,7 @@
 {
     "name": "react-three-fiber-vrm",
     "version": "1.0.0",
-    "homepage": "https://tlefeuvre.github.io/AIAgentgit",
+    "homepage": "https://tlefeuvre.github.io/AIAgentVRM",
 
     "description": "load and display a vrm model using r3f and three-vrm",
     "keywords": [],
@@ -29,8 +29,8 @@
         "build": "react-scripts build",
         "test": "react-scripts test --env=jsdom",
         "eject": "react-scripts eject",
-        "predeploy" : "npm  run build  --openssl-legacy-provider ",
-        "deploy" : "gh-pages -d build  --openssl-legacy-provider "
+        "predeploy" : "npm  run build   ",
+        "deploy" : "gh-pages -d build   "
     },
     "browserslist": [
         ">0.2%",
