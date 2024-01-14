@@ -49,7 +49,7 @@ const Avatar = () => {
       })
 
       loader.load(
-        '/avatar.vrm',
+        'https://raw.githubusercontent.com/tlefeuvre/AIAgentVRM/gh-pages/avatar.vrm',
         (gltf) => {
           setGltf(gltf)
           const vrm: VRM = gltf.userData.vrm
