@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/AIAgentVRM/static/css/main.42515671.css",
-    "main.js": "/AIAgentVRM/static/js/main.fb66b676.js",
+    "main.js": "/AIAgentVRM/static/js/main.65195aa5.js",
     "index.html": "/AIAgentVRM/index.html",
     "main.42515671.css.map": "/AIAgentVRM/static/css/main.42515671.css.map",
-    "main.fb66b676.js.map": "/AIAgentVRM/static/js/main.fb66b676.js.map"
+    "main.65195aa5.js.map": "/AIAgentVRM/static/js/main.65195aa5.js.map"
   },
   "entrypoints": [
     "static/css/main.42515671.css",
-    "static/js/main.fb66b676.js"
+    "static/js/main.65195aa5.js"
   ]
 }
